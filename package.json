@@ -2,7 +2,7 @@
   "name": "ts-extensions-priority",
   "displayName": "TS extensions priority",
   "description": "Allows to change TypeScript resolving extensions priority",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "publisher": "id141365154",
   "categories": [
     "Language Packs",
