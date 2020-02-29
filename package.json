@@ -12,7 +12,7 @@
     "type": "github",
     "url": "https://github.com/id141365154/vscode-type-resolver"
   },
-  "icon": "./logo.png",
+  "icon": "logo.png",
   "engines": {
     "vscode": "^1.42.0"
   },
