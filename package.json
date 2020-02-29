@@ -1,13 +1,26 @@
 {
-  "name": "extensions-priority",
-  "displayName": "Extensions priority",
-  "description": "Allows to change ts resolving extensions priority",
-  "version": "0.1.0",
+  "name": "ts-extensions-priority",
+  "displayName": "TS extensions priority",
+  "description": "Allows to change TypeScript resolving extensions priority",
+  "version": "0.1.1",
+  "publisher": "id141365154",
+  "categories": [
+    "Language Packs",
+    "Other"
+  ],
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/id141365154/vscode-type-resolver"
+  },
+  "icon": "./logo.png",
   "engines": {
     "vscode": "^1.42.0"
   },
-  "categories": [
-    "Other"
+  "keywords": [
+    "Typescript",
+    "Extension",
+    "Custom extensions",
+    "Monorepo tool"
   ],
   "activationEvents": [
     "*"

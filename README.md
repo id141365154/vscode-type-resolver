@@ -1,6 +1,14 @@
-# Vscode types resolve priority
+# TypeScript extensions priority
 
-## Запуск в debug режиме
+A Visual Studio Code extension which allows to change default TypeScript`s module resolve rules.
 
-- Открыть проект в vscode
-- На вкладке debug выбрать "Run Extension"
+## How use it
+
+1. Install this extension
+2. Open your project
+3. Specify VSCode TypeScript version from project`s node_modules version
+4. Click to "default" near TypeScript version number at status bar
+
+## What profit?
+
+You can easily change which file extensions should resolves firstly by VSCode 'Go to definition' and default typeScript 'types resolving' function
