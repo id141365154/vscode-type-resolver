@@ -7,7 +7,7 @@ A Visual Studio Code extension which allows to change default TypeScript`s modul
 1. Install this extension
 2. Open your project
 3. Specify VSCode TypeScript version from project`s node_modules version
-4. Click to "default" near TypeScript version number at status bar
+4. Click to "Default" near TypeScript version number at status bar
 
 ## What profit?
 

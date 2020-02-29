@@ -56,7 +56,7 @@ export function activate(context: vscode.ExtensionContext) {
   if (typeof pickedValue === "string") {
     updateStatusBarItem(pickedValue);
   } else {
-    updateStatusBarItem("default");
+    updateStatusBarItem("Default");
   }
 }
 
