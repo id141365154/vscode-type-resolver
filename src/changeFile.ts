@@ -52,7 +52,6 @@ export const changeFile = (
             vscode.window.showInformationMessage(err.message);
             throw err;
           }
-          //console.log("file", file);
           callback();
         });
       } else {
